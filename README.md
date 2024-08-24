@@ -63,8 +63,8 @@
 - 온도와 따릉이 대여 상관관계
   
   ![image](https://github.com/user-attachments/assets/38e0f336-583d-4230-a0e6-8d56f34a8897)
-  
-  상관계수가 0.274, pvalue 2.58e-98 인것으로 보아 pvalue의 값이 0.05이하이므로 관계성이 있다고 판단
+
+- 상관계수가 0.274, pvalue 2.58e-98 인것으로 보아 pvalue의 값이 0.05이하이므로 관계성이 있다고 판단
 
 
 
